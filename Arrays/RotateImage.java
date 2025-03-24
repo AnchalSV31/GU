@@ -1,6 +1,7 @@
 package Arrays;
 
 public class RotateImage {
+    //rotate 90 by clockwise
     public static int[][] rotate(int[][] matrix){
         int n= matrix.length;
         int m=matrix[0].length;
